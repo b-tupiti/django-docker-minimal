@@ -3,6 +3,8 @@
 
 I have been trying to streamline my development-to-production workflow as much as I could, and this is the best I came up with lately.
 
+Proceed by downloading the project (or cloning and deleting the .git folder, it is a template after all).
+
 
 ## Environment Variables
 
