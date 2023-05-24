@@ -5,3 +5,6 @@ venv/
 .dockerignore
 Dockerfile
 docker-compose.yml
+
+# contains sensitive information and should not be included in the build context
+.env
