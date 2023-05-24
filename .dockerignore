@@ -8,3 +8,7 @@ docker-compose.yml
 
 # contains sensitive information and should not be included in the build context
 .env
+
+# do not include staticfiles
+staticfiles/
+*static/
