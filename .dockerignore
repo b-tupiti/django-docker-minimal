@@ -1,0 +1,7 @@
+# the virtual environment should not be included in the build context
+venv/
+
+# these files do not need to be inside the image
+.dockerignore
+Dockerfile
+docker-compose.yml
